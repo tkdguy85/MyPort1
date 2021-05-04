@@ -30,5 +30,7 @@ module.exports = {
     title: 'Dallas Gordon III',
     description: 'Web Dev Work',
     copyright: 'No copyright, but I do like cereal.'
-  }
+  },
+  pathPrefix: "/helloworld"
+  
 }
