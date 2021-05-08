@@ -2,7 +2,7 @@
 title: PhotoG
 stack: React & Sanity IO
 slug: photog
-thumb: ../images/thumb/photo2.png
+thumb: ../images/thumb/photog2.png
 detailedImg: ../images/details/photog.png
 ---
 
